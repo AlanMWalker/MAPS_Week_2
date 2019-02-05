@@ -67,7 +67,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="hr_time.cpp" />
-    <ClCompile Include="Source.cpp" />
+    <ClCompile Include="Pi on the Dart Board.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="hr_time.h" />

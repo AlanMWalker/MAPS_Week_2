@@ -1,0 +1,7 @@
+
+
+Pi approx =  3.14146 using 99999999 darts
+Pi actually= 3.14159  Error = 0.00401%
+
+Elapsed time = 5.88 secs
+_______________________________________________
