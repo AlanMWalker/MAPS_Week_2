@@ -42,13 +42,18 @@ int main(void)
 
 		//***** START TIMING *********************************************************
 		s1.startTimer();
+		#pragma omp parallel for reduction(+:hitCircle)
 		for (int i = 0; i < dartsThrown; ++i)
 		{
 			// 'Throw a dart' by generating two random coords x and y, scaled to 0.0 -> 1.0
 			x = rand() / (double)RAND_MAX;
 			y = rand() / (double)RAND_MAX;
 
-			if ((x*x + y*y) < 1.0) ++hitCircle;		// did the dart hit the circle?
+			if ((x*x + y*y) < 1.0)
+			{
+				//#pragma omp atomic
+				++hitCircle;		// did the dart hit the circle?
+			}
 		}
 		PiApprox = 4.0 * hitCircle / dartsThrown;
 	}

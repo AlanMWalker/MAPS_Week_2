@@ -5,3 +5,69 @@ Pi actually= 3.14159  Error = 0.00401%
 
 Elapsed time = 5.88 secs
 _______________________________________________
+
+Pi approx =  3.14146 using 99999999 darts
+Pi actually= 3.14159  Error = 0.00401%
+
+Elapsed time = 5.27 secs
+_______________________________________________
+
+Pi approx =  3.14146 using 99999999 darts
+Pi actually= 3.14159  Error = 0.00401%
+
+Elapsed time = 5.34 secs
+_______________________________________________
+
+Pi approx =  3.14146 using 99999999 darts
+Pi actually= 3.14159  Error = 0.00401%
+
+Elapsed time = 5.35 secs
+_______________________________________________
+
+Pi approx =  3.14146 using 99999999 darts
+Pi actually= 3.14159  Error = 0.00401%
+
+Elapsed time = 5.33 secs
+_______________________________________________
+
+Pi approx =  3.14146 using 99999999 darts
+Pi actually= 3.14159  Error = 0.00401%
+
+Elapsed time = 5.57 secs
+_______________________________________________
+
+Pi approx =  3.14146 using 99999999 darts
+Pi actually= 3.14159  Error = 0.00401%
+
+Elapsed time = 5.46 secs
+_______________________________________________
+
+Pi approx =  3.14146 using 99999999 darts
+Pi actually= 3.14159  Error = 0.00401%
+
+Elapsed time = 5.4 secs
+_______________________________________________
+
+Pi approx =  3.14176 using 99999999 darts
+Pi actually= 3.14159  Error = 0.00548%
+
+Elapsed time = 8.97 secs
+_______________________________________________
+
+Pi approx =  1.63918 using 99999999 darts
+Pi actually= 3.14159  Error = 47.8%
+
+Elapsed time = 3.48 secs
+_______________________________________________
+
+Pi approx =  3.14163 using 99999999 darts
+Pi actually= 3.14159  Error = 0.00124%
+
+Elapsed time = 8.58 secs (atomic)
+_______________________________________________
+
+Pi approx =  3.14087 using 99999999 darts
+Pi actually= 3.14159  Error = 0.0229%
+
+Elapsed time = 2.68 secs
+_______________________________________________
